@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: white;
+}
+
+header {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #00c3ff;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: white;
+}
+
+.container {
+    padding: 30px;
+}
+
+img {
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px 0;
+}
+
+footer {
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
